@@ -11,7 +11,7 @@ This assignemnt was designed for us to demonstrate our work to potential hiring 
 projects added. There will be many more added through-out the course.
 
 # Acceptance Criteria 
-<!--copied from the homework assignment directly--! 
+<copied from the homework assignment directly>
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo, and links to sections about them, their work, and how to contact them
