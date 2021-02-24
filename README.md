@@ -1,6 +1,6 @@
 # Personal-Portfolio.io
 
-# Repository Link <a href="https://github.com/NathanWichmann/Personal-Portfolio.io"> portfolio"</a>
+# Repository Link <a href="https://github.com/NathanWichmann/Personal-Portfolio.io"> Portfolio"</a>
 
 This repository (Personal Portfolio) is an educational homework assignment from CARL-OTT-FSF-PT-02-20121-U-C code boot-camp. It combines our knowledge of 
 html5 and CSS together to create a personal portfolio that we can use through-out the course and after we graduate to show potential employers what we have 
@@ -41,6 +41,8 @@ inter-mingle with each other, makes the structure more pleasing to the eye.
 I was able to add a proper readme file this time. The broblem I had last time was that I made the repository without a readme file in the initial setup and 
 tried to add one after the fact. What I should have done was erase the entire repository and started all over again. This time I set it up initially and 
 added to it as progressed through the assignment. 
+
+# Screen Shot Link <a href="https://github.com/NathanWichmann/Personal-Portfolio.io/blob/main/Screenshot%20(7).png"> Screen Shot</a> 
 
 
 
