@@ -1,6 +1,6 @@
 # Personal-Portfolio.io
 
-# Repository Link <a href="https://github.com/NathanWichmann/Personal-Portfolio.io"> Portfolio"</a>
+# Repository Link <a href="https://github.com/NathanWichmann/Personal-Portfolio.io"> Portfolio</a>
 
 This repository (Personal Portfolio) is an educational homework assignment from CARL-OTT-FSF-PT-02-20121-U-C code boot-camp. It combines our knowledge of 
 html5 and CSS together to create a personal portfolio that we can use through-out the course and after we graduate to show potential employers what we have 
