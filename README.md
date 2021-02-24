@@ -26,7 +26,7 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
-#Installation 
+# Installation 
 Making the website was so much fun. I decided not to use the exact make-up of the portfolio offered as it was not that asthetically pleasing.
 I decided to be more creative and use a theme through-out the website. I used the same colors from the visual studio code, coding screen on the site. 
 I remebered the <span> element used in the first homework assignment and decided to use it here. I used it to change the colors of my name on 
@@ -34,7 +34,7 @@ top of the screen. I decided to add a picture of just how I feel doing this cour
 
 
 
-#What I Learnt 
+# What I Learnt 
 The hardest part of this assignment was making the page look like a webpage. The first webpages we made in the activities of the course where 
 very basic and lacked proper spacing and everything started on the left side of the page. Being able to move things, relative to their position and making them
 inter-mingle with each other, makes the structure more pleasing to the eye. 
