@@ -4,11 +4,12 @@
     margin: 0;
     line-height: 1.5;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+/*background color of entire site*/
 }
 body { 
     background-color: lightgray;
 }
+/*style for the nav ul section of the links */
 nav ul {
     
     list-style-type: none;
@@ -17,23 +18,24 @@ nav ul {
     width: 200px;
     background-color: lightgray;
   }
-  
+/*style and color for for the links*/
 li a {
     display: block;
     color: rgb(167, 104, 23);
     padding: 8px 20px;
     text-decoration: none;
   }
-  
+/*used to select and style the active link  */
 li a.active {
     background-color:rgb(43, 114, 158);
     color: white;
   }
-  
+/* link changes color once hover over it to white text and gray box */
 li a:hover:not(.active) {
     background-color: gray;
     color: white;
   }
+/*arranges, colors and gives space to the headings*/
 h1, h2 {
     display: flex;
     justify-content: center;
@@ -43,16 +45,16 @@ h1, h2 {
     border: 2%;
     padding: 2%;
 }
-
+/*used to color the than of nathan */
 .than {
     color: rgb(167, 104, 23);
 
 }
-
+/*used to color the mann of wichmann*/
 .mann  {
     color: rgb(167, 104, 23);
 }
-
+/* used to syle the coding picture */
 .center {
     display: block;
     margin-left: auto;
@@ -61,11 +63,13 @@ h1, h2 {
     border: 2%;
     padding:2%;
 }
+/*used to change the color and size of hello world*/
 .hello {
     color: rgb(43, 114, 158);
     font-size: 40px;
 
 }
+/* used to style the about me paragraph*/
 p {
     display:inline-block;
     color: rgb(167, 104, 23);  
@@ -73,17 +77,15 @@ p {
     border: 2%;
     padding: 2%; 
 }
+/*used to style the picture of channing */
 #picture  {
     float: left;
     border: 2%;
     padding: 2%; 
 }
+/*used to style the footer section*/
 .container {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    
-
-
-
 }
