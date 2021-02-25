@@ -36,14 +36,31 @@ li a:hover:not(.active) {
     color: white;
   }
 /*arranges, colors and gives space to the headings*/
-h1, h2 {
+h1 {
     display: flex;
     justify-content: center;
     color: rgb(43, 114, 158);
     font-size: 50px;
-    margin:2%;
-    border: 2%;
-    padding: 2%;
+    margin:1%;
+    border: 1%;
+    padding: 1%;
+}
+h2  {
+    display: flex;
+    justify-content: center;
+    color: rgb(43, 114, 158);
+    font-size: 40px;
+    margin: 1%;
+    border: 1%;
+    padding: 1%;
+}
+h3 {
+    
+    color: rgb(43, 114, 158);
+    font-size: 30px;
+    margin: 1%;
+    border: 1%;
+    padding: 1%;
 }
 /*used to color the than of nathan */
 .than {
