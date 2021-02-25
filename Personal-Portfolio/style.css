@@ -35,7 +35,7 @@ li a:hover:not(.active) {
     background-color: gray;
     color: white;
   }
-/*arranges, colors and gives space to the headings*/
+/*  centered, coloring and gives space to the headings*/
 h1 {
     display: flex;
     justify-content: center;
@@ -45,6 +45,7 @@ h1 {
     border: 1%;
     padding: 1%;
 }
+/*  centered, coloring and gives space to the headings*/
 h2  {
     display: flex;
     justify-content: center;
@@ -54,6 +55,7 @@ h2  {
     border: 1%;
     padding: 1%;
 }
+/*coloring and gives space to the headings*/
 h3 {
     
     color: rgb(43, 114, 158);
