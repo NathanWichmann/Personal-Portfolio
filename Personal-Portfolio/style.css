@@ -40,7 +40,7 @@ h1, h2 {
     display: flex;
     justify-content: center;
     color: rgb(43, 114, 158);
-    font-size: 100px;
+    font-size: 50px;
     margin:2%;
     border: 2%;
     padding: 2%;
@@ -66,14 +66,14 @@ h1, h2 {
 /*used to change the color and size of hello world*/
 .hello {
     color: rgb(43, 114, 158);
-    font-size: 40px;
+    font-size: 30px;
 
 }
 /* used to style the about me paragraph*/
 p {
     display:inline-block;
     color: rgb(167, 104, 23);  
-    font-size: 35px;
+    font-size: 25px;
     border: 2%;
     padding: 2%; 
 }
@@ -89,3 +89,16 @@ p {
     flex-direction: row;
     justify-content: center;
 }
+@media only screen and (max-width: 600px){
+
+}
+@media only screen and (min-width: 768px) {
+    
+  } 
+@media only screen and (min-width: 992px) {
+
+  } 
+@media only screen and (min-width: 1200px) {
+    .example {background: pink;}
+  }
+  
