@@ -43,7 +43,9 @@ I was able to add a proper readme file this time. The problem I had last time wa
 tried to add one after the fact. What I should have done was erase the entire repository and started all over again. This time I set it up initially and 
 added to it as progressed through the assignment. 
 
-# Screenshot Link <a href="https://github.com/NathanWichmann/Personal-Portfolio.io/blob/main/Screenshot%20(7).png"> Screenshot</a> 
+# Screenshot
+![screeenshot](./screenshot.png"Screenshhot 1")
+
 
 
 
