@@ -1,8 +1,7 @@
 # Personal-Portfolio.io
 
-# Assignment Link <a href="https://github.com/NathanWichmann/Personal-Portfolio.io/blob/main/Personal-Portfolio/Personal-Portfolio.html"> Assignment</a>
 
-# Repository Link <a href="https://nathanwichmann.github.io/Personal-Portfolio.io/"> Portfolio</a>
+# Deployed website Link <a href="https://nathanwichmann.github.io/Personal-Portfolio.io/"> Portfolio</a>
 This repository (Personal Portfolio) is an educational homework assignment from CARL-OTT-FSF-PT-02-20121-U-C coding boot-camp. It combines our knowledge of 
 html5 and CSS together to create a personal portfolio that we can use through-out the course and after we graduate to show potential employers what we have 
 accomplished. 
@@ -44,7 +43,7 @@ tried to add one after the fact. What I should have done was erase the entire re
 added to it as progressed through the assignment. 
 
 # Screenshot
-![screenshot](./screenshot.png)
+![screenshot](./sgcreenshot.png)
 
 
 
