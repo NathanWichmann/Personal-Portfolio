@@ -44,7 +44,7 @@ tried to add one after the fact. What I should have done was erase the entire re
 added to it as progressed through the assignment. 
 
 # Screenshot
-![screeenshot](./screenshot.png"Screenshhot 1")
+![screenshot](./screenshot.png)
 
 
 
