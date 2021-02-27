@@ -15,14 +15,15 @@ nav ul {
     list-style-type: none;
     margin: 1%;
     padding: 1%;
-    width: 200px;
+    width: px;
     background-color: lightgray;
+    font-size: 40px;
   }
 /*style and color for for the links*/
 li a {
     display: block;
     color: rgb(167, 104, 23);
-    padding: 8px 20px;
+    padding: 4px 16px;
     text-decoration: none;
   }
 /*used to select and style the active link  */
