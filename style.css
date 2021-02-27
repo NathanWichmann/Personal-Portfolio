@@ -22,8 +22,9 @@ nav ul {
 li a {
     display: block;
     color: rgb(167, 104, 23);
-    padding: 8px 20px;
+    padding: 4px 10px;
     text-decoration: none;
+    font-size: 30px;
   }
 /*used to select and style the active link  */
 li a.active {
@@ -79,8 +80,8 @@ h3 {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    border: 2%;
-    padding:2%;
+    border: 1%;
+    padding:1%;
 }
 /*used to change the color and size of hello world*/
 .hello {
@@ -93,14 +94,14 @@ p {
     display:inline-block;
     color: rgb(167, 104, 23);  
     font-size: 25px;
-    border: 2%;
-    padding: 2%; 
+    border: 1%;
+    padding: 1%; 
 }
 /*used to style the picture of channing */
 #picture  {
     float: left;
-    border: 2%;
-    padding: 2%; 
+    border: 1%;
+    padding: 1%; 
 }
 /*used to style the footer section*/
 .container {
@@ -120,22 +121,16 @@ p {
 /* breaking point for viewport up to 600px*/
 @media only screen and (max-width: 600px){
     body { display: grid;
-
-}
+    }
 /*new breakpoint for viewport*/
 @media only screen and (min-width: 768px) {
     body { display: grid;
-     
-} 
+     } 
 /*breaking point for viewport from 768px to 992px*/
 @media only screen and (min-width: 992px) {
     body { display: grid;
-     
-
-} 
+    } 
 /*breaking point for viewport from 992px 1200px*/
 @media only screen and (min-width: 1200px) {
     body { display: grid;
-     
-   
-}
+    }
